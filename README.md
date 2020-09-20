@@ -14,7 +14,7 @@ Currently as you can see here there is Landing page.
 ## Built with
 * [HTML](https://www.w3schools.com/html) - is the most basic building block of the Web. It defines the meaning and structure of web content.
 * [CSS](https://www.w3schools.com/css) - is the language we use to style an HTML document. 
-* [Bootstarp] (https://getbootstrap.com/) - the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
+* [Bootstarp](https://getbootstrap.com) - the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
 
 ## Setup/Installation Requirements
 To access this website you must have
