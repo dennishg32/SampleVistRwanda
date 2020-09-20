@@ -26,11 +26,11 @@ Do you want to contribute? feel free!
 
 To fix a bug or enhance an existing module, follow these steps:
 * Fork repo
-* Create a new branch ( git checkout -b improve-feature )
+* Create a new branch (~~git checkout -b improve-feature~~)
 * Make the appropriate changes in files
 * Add changes to reflect the changes made
-* Commit your changes ( git commit -m "Improve feature" )
-* Push to the branch ( git push origin improve-feature )
+* Commit your changes (~~git commit -m "Improve feature"~~)
+* Push to the branch (~~git push origin improve-feature~~)
 * Create a Pull Request
 
 ## Known Bugs
